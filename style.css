@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Secular One', sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(25, 25, 117);
+    color: rgb(199, 188, 188);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.counter-conatiner{
+    margin: 10px 58px;
+    padding: 5px;
+}
+.counter-conatiner i{
+    margin: 0 72px;
+}
+span{
+    font-size: 22px;
+    margin: 0 11px;
+}
+.counter{
+    margin: 0px 55px;
+    font-size: 51px;
+    color: orange;
+}
